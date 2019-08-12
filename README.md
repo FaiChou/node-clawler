@@ -1,5 +1,9 @@
 # node-clawler for *One-Punch Man*
 
+## goal
+
+To download all the *One-Punch Man* images from `https://manhua.fzdm.com/132/` and collect them in order.
+
 ## usage
 
 ```bash
